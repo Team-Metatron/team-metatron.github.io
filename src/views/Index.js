@@ -2,7 +2,7 @@ import React from "react";
 
 // import IndexNavbar from "components/Navbars/IndexNavbar.js";
 import PageHeader from "components/PageHeader/PageHeader.js";
-// import Footer from "components/Footer/Footer.js";
+import Footer from "components/Footer/Footer.js";
 
 // sections for this page/view
 // import Basics from "views/IndexSections/Basics.js";
@@ -30,7 +30,7 @@ export default function Index() {
       {/* <IndexNavbar /> */}
       <div className="wrapper">
         <PageHeader />
-        {/* <Footer /> */}
+        <Footer />
       </div>
     </>
   );
