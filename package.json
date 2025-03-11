@@ -4,7 +4,7 @@
   "description": "Team Metatron Web",
   "main": "index.js",
   "no-error-on-warning": true,
-  "homepage": "https://team-metatron.github.io/",
+  "homepage": "https://team-metatron.github.io/index.html",
   "keywords": [
     "metatron"
   ],
