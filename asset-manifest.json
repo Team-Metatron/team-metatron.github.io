@@ -1,23 +1,35 @@
 {
   "files": {
     "main.css": "/index.html/static/css/main.1193b29f.css",
-    "main.js": "/index.html/static/js/main.c12bd930.js",
+    "main.js": "/index.html/static/js/main.ddcc7bb3.js",
     "static/media/square4.png": "/index.html/static/media/square4.b0072563cab16ef45d81.png",
     "static/media/square1.png": "/index.html/static/media/square1.082ea17aaf44aed9868a.png",
     "static/media/square3.png": "/index.html/static/media/square3.235ea41b7cee0696448d.png",
     "static/media/square2.png": "/index.html/static/media/square2.8ce0f9b6a9f216ada045.png",
     "static/media/square5.png": "/index.html/static/media/square5.16283001f5a086113265.png",
     "static/media/just-night.png": "/index.html/static/media/just-night.049a2cd26a85856a45e6.png",
+    "static/media/ripp.png": "/index.html/static/media/ripp.c59f60238fbadc39977b.png",
     "static/media/just-night-v2.png": "/index.html/static/media/just-night-v2.e6a30d27482b2b409f71.png",
+    "static/media/bitcoin.png": "/index.html/static/media/bitcoin.47422beaa7310ef04777.png",
+    "static/media/etherum.png": "/index.html/static/media/etherum.628f765f05b74595f06a.png",
     "static/media/dots.png": "/index.html/static/media/dots.1e305f981d41a2c30adb.png",
+    "static/media/blob.png": "/index.html/static/media/blob.e39506780c69b0fd8920.png",
+    "static/media/chester-wade.jpg": "/index.html/static/media/chester-wade.e891184f2ebb6f4f9691.jpg",
+    "static/media/path2.png": "/index.html/static/media/path2.35e76a63e5bc4801dd9c.png",
+    "static/media/path4.png": "/index.html/static/media/path4.cb1d9fab145d91e36846.png",
+    "static/media/path5.png": "/index.html/static/media/path5.037b2fcefee2867cd2f5.png",
+    "static/media/path3.png": "/index.html/static/media/path3.3f66cc18d0e5e2526eb2.png",
+    "static/media/cercuri.png": "/index.html/static/media/cercuri.05cc0d04cc8cf5ceeb5d.png",
     "static/media/nucleo.eot": "/index.html/static/media/nucleo.bd5cce8bf40be5947637.eot",
     "static/media/nucleo.ttf": "/index.html/static/media/nucleo.35b08447277ca7bf9f09.ttf",
+    "static/media/patrat.png": "/index.html/static/media/patrat.aeec33e42c0e3d453dd0.png",
+    "static/media/waves.png": "/index.html/static/media/waves.ac46eaefac136824e252.png",
     "static/media/nucleo.woff": "/index.html/static/media/nucleo.5c65ef4d6434bb8062a3.woff",
     "static/media/nucleo.woff2": "/index.html/static/media/nucleo.6dfb4833e3a0132fd1fc.woff2",
     "index.html": "/index.html/index.html"
   },
   "entrypoints": [
     "static/css/main.1193b29f.css",
-    "static/js/main.c12bd930.js"
+    "static/js/main.ddcc7bb3.js"
   ]
 }
